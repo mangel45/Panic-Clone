@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="38" viewBox="0 0 34 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-file-large.svg" class="cls-1" d="M975,950l11,11H975V950Zm-2,12h0v0.374a0.5,0.5,0,0,0,.5.5h0.042A0.977,0.977,0,0,0,974,963h12a4.949,4.949,0,0,0,.464-1.186A15.843,15.843,0,0,1,988,969c0,7-2,17-2,17a2,2,0,0,1-2,2H958a2,2,0,0,1-2-2,73.25,73.25,0,0,1,0-34,2,2,0,0,1,2-2h15v12Z" transform="translate(-954 -950)"/>
+</svg>

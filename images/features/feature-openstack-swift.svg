@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-openstack-swift.svg" class="cls-1" d="M956,1210h30a2,2,0,0,1,2,2v30a2,2,0,0,1-2,2H956a2,2,0,0,1-2-2v-30A2,2,0,0,1,956,1210Zm-2,21h7v2h-7v-2Zm27-10h7v2h-7v-2Zm0,10h7v2h-7v-2Zm-27-10h7v2h-7v-2Zm8-4h18a1,1,0,0,1,1,1v18a1,1,0,0,1-1,1H962a1,1,0,0,1-1-1v-18A1,1,0,0,1,962,1217Z" transform="translate(-954 -1210)"/>
+</svg>

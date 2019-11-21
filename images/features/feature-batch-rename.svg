@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="37.219" height="38" viewBox="0 0 37.219 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-batch-rename.svg" class="cls-1" d="M187.235,669l-5.816-17.009H178.63L172.793,669,176,669l1-4h5.813l1,4Zm-5.423-7H178l1.813-7ZM198,667v2h-9v-2h3V654h-3v-2h9v2h-3v13h3Zm12,0v2h-9v-2h3V654h-3v-2h9v2h-3v13h3Zm-3,21v2h-9v-2h3V675h-3v-2h9v2h-3v13h3Zm-12,0v2h-9v-2h3V675h-3v-2h9v2h-3v13h3Zm-13,0v2h-9v-2h3V675h-3v-2h9v2h-3v13h3Z" transform="translate(-172.781 -652)"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="29" viewBox="0 0 36 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-auth.svg" class="cls-1" d="M955,813h32a2,2,0,0,1,2,2v25a2,2,0,0,1-2,2H955a2,2,0,0,1-2-2V815A2,2,0,0,1,955,813Zm3,7h26a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2H958a2,2,0,0,1-2-2v-4A2,2,0,0,1,958,820Zm0,11h26a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2H958a2,2,0,0,1-2-2v-4A2,2,0,0,1,958,831Z" transform="translate(-953 -813)"/>
+</svg>

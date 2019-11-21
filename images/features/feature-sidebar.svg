@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="32" viewBox="0 0 29 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-sidebar.svg" class="cls-1" d="M177,603h5v32h-5V603Zm7,0h20a2,2,0,0,1,2,2v28a2,2,0,0,1-2,2H184V603Zm11,14.125a2,2,0,0,1,2,2v9a2,2,0,0,1-4,0v-9A2,2,0,0,1,195,617.125Zm0-8.637a2.637,2.637,0,1,1-2.637,2.637A2.637,2.637,0,0,1,195,608.488Z" transform="translate(-177 -603)"/>
+</svg>

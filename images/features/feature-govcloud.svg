@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="39" viewBox="0 0 34 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-govcloud.svg" class="cls-1" d="M971,1110a12,12,0,0,1,12,12H959A12,12,0,0,1,971,1110Zm1,19h4v10h-4v-10Zm-14,0h4v10h-4v-10Zm21,0h4v10h-4v-10Zm-23-5h30v3H956v-3Zm15-16a10.131,10.131,0,0,0-2,.2V1107a2,2,0,0,1,4,0v1.2A10.131,10.131,0,0,0,971,1108Zm-6,21h4v10h-4v-10Zm-11,12h34v3H954v-3Z" transform="translate(-954 -1105)"/>
+</svg>

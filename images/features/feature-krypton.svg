@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="36" viewBox="0 0 32 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-krypton.svg" class="cls-1" d="M971,1293c-15.749-2.91-16-13-16-13v-16s5-7.1,16-7c11-.1,16,7,16,7v16S986.749,1290.09,971,1293Zm0-29a10,10,0,1,1-10,10A10,10,0,0,1,971,1264Zm0,4a6,6,0,1,1-6,6A6,6,0,0,1,971,1268Z" transform="translate(-955 -1257)"/>
+</svg>

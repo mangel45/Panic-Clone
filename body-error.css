@@ -1,0 +1,86 @@
+body[data-error=true] {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+body[data-error=true] * {
+  -webkit-filter: blur(25px);
+  -moz-filter: blur(25px);
+  -ms-filter: blur(25px);
+  -o-filter: blur(25px);
+  filter: blur(25px);
+}
+
+body[data-error=true]:before {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#orderError {
+  position: relative;
+  z-index: 110;
+  display: none;
+  background: white;
+  color: black;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  max-width: 240px;
+}
+
+body[data-error=true] #orderError {
+  display: block;
+}
+
+body[data-error=true] #orderError, body[data-error=true] #orderError * {
+  -webkit-filter: blur(0);
+  -moz-filter: blur(0);
+  -ms-filter: blur(0);
+  -o-filter: blur(0);
+  filter: blur(0);
+}
+
+#orderError h2 {
+  font-size: 19px;
+  line-height: 1em;
+  font-family: "Chrono Medium Italic", sans-serif;
+  font-weight: normal;
+  letter-spacing: -0.065em;
+  margin-bottom: 1.2em;
+  color: #000;
+}
+
+#orderError p {
+  font-size: 15px;
+  line-height: 1.2em;
+  font-family: "Chrono Regular", sans-serif;
+}
+
+#orderError h2, #orderError p {
+  position: relative;
+}
+
+#orderError button {
+  margin: 20px 0 0;
+  padding: 0.5em 2em;
+  border-radius: 10px;
+  appearance: none;
+  border: none;
+  background: black;
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Chrono Regular", sans-serif;
+  cursor: pointer;
+}

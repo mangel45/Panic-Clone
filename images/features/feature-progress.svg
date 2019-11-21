@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="10" viewBox="0 0 40 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-progress.svg" class="cls-1" d="M953,718h36a2,2,0,0,1,2,2v6a2,2,0,0,1-2,2H953a2,2,0,0,1-2-2v-6A2,2,0,0,1,953,718Zm28,2h7a1,1,0,0,1,1,1v4a1,1,0,0,1-1,1h-7v-6Z" transform="translate(-951 -718)"/>
+</svg>

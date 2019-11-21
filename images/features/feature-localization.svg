@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="40" viewBox="0 0 35 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9f3fa;
+        fill-rule: evenodd;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <path id="feature-localization.svg" class="cls-1" d="M961.208,1055.88c8.861,3.28,17.723-4.3,26.584-1.03a2.047,2.047,0,0,1,1.208,1.74v20.82a0.79,0.79,0,0,1-1.208.71c-8.861-3.28-17.723,4.3-26.584,1.03a2.047,2.047,0,0,1-1.208-1.74v-20.82a0.79,0.79,0,0,1,1.208-.71h0ZM955,1053h2a1,1,0,0,1,1,1v39h-4v-39A1,1,0,0,1,955,1053Z" transform="translate(-954 -1053)"/>
+</svg>

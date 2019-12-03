@@ -25,10 +25,10 @@ if (host === 'panic.vagrant.panic.com') {
   serverConfig.returnHost = 'panic.com';
 }
 
-$.ajaxSetup({
-  contentType: 'application/json',
-  jsonp: false
-});
+// $.ajaxSetup({
+//   contentType: 'application/json',
+//   jsonp: false
+// });
 
 function postOrderSuccessStripe(parsedResponse) {
   var form;

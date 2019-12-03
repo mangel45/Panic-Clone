@@ -9,7 +9,8 @@ window.addEventListener('touchstart', function didTouch() {
 // Prepare to load the WebGL truck. (The JS alone is like 800k, so we'll only load it if WebGL is available.)
 var truckJS = document.createElement("script");
 truckJS.type = "text/javascript";
-truckJS.src = "js/3dtruck.min.js";
+// truckJS.src = "js/3dtruck.min.js";
+truckJS.src = "https://panic.com/transmit/js/3dtruck.min.js";
 
 // Check for WebGL (from http://www.studyjs.com/webgl/webglcontext.html)
 var webgl = null;
